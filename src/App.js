@@ -4,7 +4,7 @@ import ColorTrail from "./components/ColorTrail";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{ backgroundColor: "black" }}>
       <ColorTrail />
     </div>
   );
